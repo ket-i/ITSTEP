@@ -1,3 +1,3 @@
 # ITSTEP
-ITSTEP-ის დავალებები
+ITSTEP-ის საბოლოო პროექტი
 Develope Brach
